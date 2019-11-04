@@ -1,0 +1,14 @@
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\bin\Debug\PicturesManagement.exe.config
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\bin\Debug\PicturesManagement.exe
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\bin\Debug\PicturesManagement.pdb
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\bin\Debug\PicturesManagement.xml
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.Form1.resources
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.Resources.resources
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.vbproj.GenerateResource.Cache
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.exe
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.xml
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.pdb
+C:\Users\trois\Desktop\Projets à mettre sur gitea\PicturesManagement\PicturesManagement\bin\Debug\PicturesManagement.exe.config
+C:\Users\trois\Desktop\Projets à mettre sur gitea\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.exe
+C:\Users\trois\Desktop\Projets à mettre sur gitea\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.xml
+C:\Users\trois\Desktop\Projets à mettre sur gitea\PicturesManagement\PicturesManagement\obj\Debug\PicturesManagement.pdb

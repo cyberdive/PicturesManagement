@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PicturesManagement
+</name>
+</assembly>
+<members>
+<member name="M:PicturesManagement.Class1.dirRecursively(System.String,System.String,System.Int32,System.Int64)">
+	<summary>
+ Search files in directory and subdirectories 
+ </summary>
+	<param name="searchDir">Start Directory</param>
+	<param name="searchPattern">Search Pattern</param>
+	<param name="maxDepth">maximum depth; 0 for unlimited depth</param>
+	<param name="maxDurationMS">maximum duration; 0 for unlimited duration</param>
+	<returns>a list of filenames including the path</returns>
+	<remarks>
+ recursive use of   Sub dirS
+ 
+ wallner-novak@bemessung.at
+ </remarks>
+</member><member name="M:PicturesManagement.Class1.dirS(System.String,System.String,System.Int32,System.Int64,System.Collections.Generic.List{System.String}@,System.Int32@,System.Diagnostics.Stopwatch@,System.Boolean@)">
+	<summary>
+ Recursive file search
+ </summary>
+	<param name="searchDir">Start Directory</param>
+	<param name="searchPattern">Search Pattern</param>
+	<param name="maxDepth">maximum depth; 0 for unlimited depth</param>
+	<param name="maxDurationMS">maximum duration; 0 for unlimited duration</param>
+	<param name="fileList">Filelist to append to</param>
+	<param name="depth">current depth</param>
+	<param name="sw">stopwatch</param>
+	<param name="quit">boolean value to quit early (at given depth or duration)</param>
+	<remarks>
+ wallner-novak@bemessung.at
+ </remarks>
+</member><member name="P:PicturesManagement.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PicturesManagement.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PicturesManagement.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
